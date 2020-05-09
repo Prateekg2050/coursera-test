@@ -1,0 +1,42 @@
+body{
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: grey;  
+
+}
+h1{
+	text-align: center;
+	font-style: italic;
+}
+#chi{
+	text-align: center;
+	background-color: red;
+	float: right;
+	font-weight: bold;
+	font-style: italic;
+	padding: 5px;
+    }
+#bee{text-align: center;
+	background-color: pink;
+	float: right;
+	font-weight: bold;
+	font-style: italic;
+     padding: 5px;
+}
+#sus{
+	text-align: center;
+	background-color: yellow;
+	float: right;
+	font-weight: bold;
+	font-style: italic;
+	padding: 5px;
+}
+
+p{
+	clear: right;
+}
+section{
+	background-color:rgb(211,211,211);
+	padding: 5px;
+	margin: 10px;
+}
